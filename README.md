@@ -6,7 +6,6 @@
 ##  Steps to run the code:
 ### Step 1: Run data_download.py
 #### Downloads Images, Captions and Glove.txt and unzips the folders and files.
-### Step 1: Unzip the glove.6B.200d txt file and place it in the Final-Project-Group6/Code/ folder
 ### Step 2: Download the repository
 ### Step 3: Go to the Final-Project-Group6/Code/ folder
 ### Step 4: Run DataSplit.py file 
