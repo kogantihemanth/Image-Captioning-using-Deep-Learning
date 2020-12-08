@@ -9,5 +9,5 @@
 ####    This generates train_ids.txt & test_ids.txt files which are also included in the folder so this step is optional.
 ### Step 4: Run feature_generator.py file
 ####    This generates train_features8k_vgg16.pkl & train_features8k_vgg16.pkl files which are also included in the folder so this step is optional.
-### Step 5: Run
+### Step 5: Run modeling.py file.
 ####    
