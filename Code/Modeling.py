@@ -104,7 +104,7 @@ train = load_set(filename)
 print('Dataset: %d' % len(train))
 
 # Below path contains all the images
-images = 'Images/'
+images = 'Images_8k/'
 # Create a list of all image names in the directory
 img = glob.glob(images + '*.jpg')
 
