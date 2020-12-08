@@ -1,7 +1,8 @@
 # Final-Project-Group6
-##  Data source link: https://www.kaggle.com/adityajn105/flickr8k/download
-### The data is downloaded and included in the repository.
-
+###  Data source link: https://www.kaggle.com/adityajn105/flickr8k/download
+#### The data is downloaded and included in the repository.
+### glove.6B.200d.txt: https://www.kaggle.com/incorpes/glove6b200d/download
+####  This is the pretrained glove model has 200-dimensional vector
 ##  Steps to run the code:
 ### Step 1: Download the repository
 ### Step 2: Go to the Final-Project-Group6/Code/ folder
