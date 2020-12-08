@@ -15,5 +15,5 @@ gdd.download_file_from_google_drive(file_id='1OMm6HSwSvn-PrYNRGmX6ajQA-mWc-wOr',
 
 # to download captions
 gdd.download_file_from_google_drive(file_id='1K_c-R2MIBGX9cR7A5N-KozhmoeJ0hBbl',
-                                            dest_path='./glove.zip',
+                                            dest_path='./captions.zip',
                                             unzip=True)
